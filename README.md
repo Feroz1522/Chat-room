@@ -14,7 +14,7 @@ git clone https://github.com/Feroz1522/Chat-room.git
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd Chat-room
 
 ```
 
